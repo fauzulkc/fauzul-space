@@ -6,11 +6,12 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@nx/js": "16.2.2",
-    "@nx/workspace": "16.2.2",
-    "nx": "16.2.2",
-    "nx-cloud": "latest",
+    "@nx/js": "16.3.2",
+    "@nx/workspace": "16.3.2",
+    "nx": "16.3.2",
+    "nx-cloud": "16.0.5",
     "prettier": "^2.6.2",
     "typescript": "~5.0.2"
   }
 }
+
